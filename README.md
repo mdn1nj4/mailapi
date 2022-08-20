@@ -1,4 +1,5 @@
 # Mailapi
+Verify valid email from list of emails using whoisxmlapi.com API
 ## Email Address Verification and Validation
 ### Create a account in https://emailverification.whoisxmlapi.com/  
 ![API URL](https://i.ibb.co/znvm5s4/mailapi.png)  
